@@ -2,10 +2,13 @@ Ideas:
 1. Cinematic Sound Design Survey Experiment
 a. Give users a movie scene of a similar (thriller, action, horror, disney, etc.)
 b. Choose instruments to use for different sections: 
-i. Percussion, Lead, Accompienant, Bass, SFX
+    i. Percussion, Lead, Accompienant, Bass, SFX
 c. 3 sound choices for each
 d. Architecture: based on visual choose certain auditory designs
 e. Flask/Python create interface
+f. Data collection via survey that links the app in the survey at the beginning
+
+Thesis: How do slight differences in visual design change the epxectations of audio design in cinematic arts?
 
 Requirements:
 ? We are looking for a specific project topic (not: "we will do a project on room acoustics"!).
